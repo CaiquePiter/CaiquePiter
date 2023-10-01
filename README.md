@@ -14,7 +14,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 - 👻 Objetivo: Contribuir mais com projetos de código aberto.
 
 ### 🧰 Linguagens e ferramentas
-<p align="left"><img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
+<p align="left"><img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="https://git-scm.com/doc" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
 </p>
 
 ### 🎖 Certificados
