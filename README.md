@@ -29,27 +29,8 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 </p>
 
 
-### :card_index: Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Fast and Furious Building OCI compatible Container Images with GoReleaser and ko](https://blog.goreleaser.com/fast-and-furious-building-oci-compatible-container-images-with-goreleaser-and-ko-77d9378c4130?source=rss-57d794f14ac9------2)
-- [How to become the next Sigstore Evangelist?](https://medium.com/sigstore/how-to-become-the-next-sigstore-evangelist-9303ed297e54?source=rss-57d794f14ac9------2)
-- [Distribute your Binaries hosted on a private GitLab repository with HomeBrew using GoReleaser](https://medium.com/trendyol-tech/distribute-your-binaries-hosted-on-a-private-gitlab-repository-with-homebrew-using-goreleaser-56c8fb5a61fe?source=rss-57d794f14ac9------2)
-- [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss-57d794f14ac9------2)
-- [How to verify container images with Kyverno using KMS, Cosign, and Workload Identity](https://medium.com/sigstore/how-to-verify-container-images-with-kyverno-using-kms-cosign-and-workload-identity-1e07d2b85061?source=rss-57d794f14ac9------2)
-<!-- BLOG-POST-LIST:END -->
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#6026](https://github.com/wolfi-dev/os/pull/6026) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-2. 💪 Opened PR [#6025](https://github.com/wolfi-dev/os/pull/6025) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-3. 💪 Opened PR [#6016](https://github.com/wolfi-dev/os/pull/6016) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-4. 💪 Opened PR [#62](https://github.com/wolfi-dev/tools/pull/62) in [wolfi-dev/tools](https://github.com/wolfi-dev/tools)
-5. 💪 Opened PR [#5892](https://github.com/wolfi-dev/os/pull/5892) in [wolfi-dev/os](https://github.com/wolfi-dev/os)
-<!--END_SECTION:activity-->
-
-
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
-<a href="https://linkedin.com/in/bthnapydin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
+<a href="https://www.linkedin.com/in/caique-piter/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
 <a href="https://batuhan-apaydin-11378.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@batuhan.apaydin_113" /></a>
 <a href="https://dev.to/developerguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="developer-guy" /></a>
 <a href="https://twitter.com/developerguyba" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="developerguyba" /></a>
