@@ -29,7 +29,7 @@ Hi, I'm [Batuhan Apaydın](https://linkedin.com/in/bthnapydin), a Software Engin
 </p>
 
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Minhas Redes Sociais
+### <img src="👋" height="32"></img> Minhas Redes Sociais
 <a href="https://www.linkedin.com/in/caique-piter/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
 <a href="https://stackoverflow.com/users/22587626/caique-piter" target="blank"><img align="center" src="https://img.shields.io/badge/stack%20%20overflow-grey?style=for-the-badge&logo=stackoverflow" alt="@batuhan.apaydin_113" /></a>
 <a href="https://dev.to/developerguy" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="developer-guy" /></a>
