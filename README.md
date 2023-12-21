@@ -13,7 +13,7 @@ Oi, Eu sou [Caique Piter](https://www.linkedin.com/in/caique-piter-b294792a4/),
 - 🌱 Atualmente estou explorando novas tecnologias.
 - 👻 Objetivo: Contribuir mais com projetos de código aberto.
 
-### 🧰 Linguagens e ferramentas
+### 🧰 Ferramentas
 <p align="left"><img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
 </p>
 
